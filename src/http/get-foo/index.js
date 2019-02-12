@@ -14,7 +14,7 @@ let html = `
   </head>
   <body>
     <h1 class="center-text">
-      Hello world!
+      Hello foo!
     </h1>
     <p class="center-text">
       Your new route is ready to go!
