@@ -4,6 +4,7 @@ dawn-bji
 @http
 get /
 get /foo
+get /bar
 
 @tables
 data
